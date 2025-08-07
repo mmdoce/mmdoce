@@ -1,9 +1,8 @@
-##<h1 align="center">Ei! Pegue uma cadeira</h1>
+<h1 align="center">Ei! Pegue uma cadeira</h1>
 <h3 align="center">Um desenvolvedor frontend apaixonado da ZL</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmdoce" alt="mmdoce" /></a> </p>
 
-<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 </p>
 
