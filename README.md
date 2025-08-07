@@ -1,4 +1,4 @@
-## 👋 HEY FORASTEIRO, Bem-Vindo(a)!
+## 👋 Hey FORASTEIRO, Bem-Vindo(a)!
 
 ---
 
@@ -7,7 +7,7 @@
 🧠 Viciada em entender lógica, transformar ideias em código e descobrir o que dá pra criar com tecnologia.  
 💻 Explorando o front-end com HTML, CSS, JS e APIs, e desbloqueando novas skills no caminho.  
 🎯 Missão atual: construir um portfólio com identidade própria, que mostre de onde vim e pra onde quero ir.  
-🎮 Status: online, focada e com a barra de progresso sempre enchendo.
+
 
 > 🏴‍☠️ *"O mundo só é grande pra quem não tem um barco."* — **Shanks, One Piece**
 
