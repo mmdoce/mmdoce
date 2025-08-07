@@ -21,7 +21,7 @@
 
 ### 📂 Meus projetos (até agora)
 
-- 🧭 [Relógio Digital com Janelas Interativas](#)  
+- 🧭 [Relógio Digital com Janelas Interativas](https://github.com/mmdoce/Relogio_digital.git)  
 - ♻️ [Marketplace de Resíduos com API de Localização](#)  
 - ☁️ [Dashboard Clima com OpenWeather](#)  
 - 📚 [Página de Resumos de Estudo](#)  
