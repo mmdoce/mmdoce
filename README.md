@@ -14,9 +14,9 @@
 ---
 
   <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Pedro-Lucas-Novaes&show_icons=true&theme=dark" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mmdoce&show_icons=true&theme=dark" alt="GitHub stats" />
   &nbsp;&nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Lucas-Novaes&layout=compact&langs_count=7&theme=dark" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmdoce&layout=compact&langs_count=7&theme=dark" alt="Top Languages" />
 
 ### 🧩 Skills desbloqueadas até agora:
 
