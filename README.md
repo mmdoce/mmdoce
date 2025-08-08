@@ -13,9 +13,6 @@
 
 ---
 
-  <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmdoce&layout=compact&langs_count=7&theme=dark" alt="Top Languages" />
-
 ### 🧩 Skills desbloqueadas até agora:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  ![API](https://img.shields.io/badge/APIs-FF6F61?style=for-the-badge&logo=fastapi&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -34,7 +31,10 @@
 
 ### 🧠 Estudando agora:
 
-[![Estudando React](https://img.shields.io/badge/Estudando-React-blue?style=flat-square&logo=react)](#)
+[![Estudando React](https://img.shields.io/badge/Estudando-React-blue?style=flat-square&logo=react)](#)           
+<p align="right">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmdoce&layout=compact&langs_count=7&theme=dark" alt="Top Languages" />
+
 
 ---
 
